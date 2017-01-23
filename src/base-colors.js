@@ -8,12 +8,12 @@ export default {
   orange: '#f5a623',
 
   grayLight: '#aaaaaa',
-  grayLight1: '#b1b6be',
-  grayLight2: '#e6e6e6',
   grayLighter: '#f7f7f9',
   gray: '#666666',
   grayDark: '#4d4d4d',
-  grayDarker: '#333333'
+  grayDarker: '#333333',
+  grayBombay: '#b1b6be',
+  grayMercury: '#e6e6e6',
 
   grayBlueLighter: '#ebeef3',
   grayBlueLight: '#e0e5ec',
