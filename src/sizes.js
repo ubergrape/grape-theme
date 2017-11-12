@@ -15,12 +15,16 @@ export default {
   // TODO
   // Calculate them based on font face sizes.
   spacer: {
-    xs: 5,
-    s: 10,
-    m: 15,
-    l: 20,
-    xl: 25,
-    xxl: 30
+    xxxs: 2,
+    xxs: 4,
+    xs: 8,
+    s: 12,
+    m: 16,
+    l: 24,
+    xl: 32,
+    xxl: 64,
+    
+    sidebarSpacing: spacer.m
   },
   // TODO
   // Calculate them based on font face sizes.
